@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MinhaConexao-Web.config Connection String" description="MinhaConexao Connection String used in web.config by the application to access the database." defaultValue="Data Source=gio\SQLEXPRESS2024;Initial Catalog=projetoDB;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\gcl08\\Desktop\\ProjetoIntegrador\\ProjetoIntegrador\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MinhaConexao']/@connectionString" />
+  </parameter>
+</parameters>
